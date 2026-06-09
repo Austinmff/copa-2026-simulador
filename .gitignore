@@ -1,0 +1,23 @@
+# Bytes compilados pelo Python (o que evita o __pycache__ no GitHub)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais locais
+venv/
+.venv/
+env/
+
+# Caches de ferramentas de testes e IDEs
+.pytest_cache/
+.vscode/
+.idea/
+
+# Arquivos de saída local e relatórios gerados por simulação
+output/
+*.csv
+*.png
+
+# Configurações locais do Streamlit
+.streamlit/
