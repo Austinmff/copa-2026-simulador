@@ -1,0 +1,12 @@
+# Web e UI
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Manipulação de Dados e Matemática
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Qualidade de Código e Testes (Ambiente Dev)
+pytest>=7.4.0
+flake8>=6.1.0
+black>=23.7.0
